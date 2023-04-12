@@ -1,8 +1,5 @@
-# 生成静态文件
-vuepress build .
-
 # 进入生成的文件夹
-cd .vuepress/dist
+cd .public
 
 git init
 git add -A
