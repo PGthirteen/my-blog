@@ -9,4 +9,4 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f https://github.com/PGthirteen/blog.git master
+git push -f https://github.com/PGthirteen/blog.git main
