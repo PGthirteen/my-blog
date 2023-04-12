@@ -39,7 +39,7 @@ module.exports = {
   "title": "PG-伴我同行",
   "description": "this is my blog",
   "dest": "public",
-  "base": "/blog/",
+  "base": "/learn-typescript/",
   "locales": {
     '/': {
       lang: 'zh-CN'
