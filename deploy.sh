@@ -1,5 +1,5 @@
 # 生成静态文件
-vuepress build
+vuepress build .
 
 # 进入生成的文件夹
 cd .vuepress/dist
