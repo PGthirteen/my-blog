@@ -49,7 +49,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "130121603.jpg"
+        "href": "/130121603.jpg"
       }
     ],
     [
@@ -224,28 +224,28 @@ module.exports = {
       '@vuepress-reco/vuepress-plugin-bgm-player',{
       audios: [
         {
-          name: '我想要你的爱',
-          artist: '潘安仁',
-          url: 'https://lu-sycdn.kuwo.cn/f1ef6e03ddffc954dfa496739f0e0c7c/6436a57b/resource/n1/8/96/1372623612.mp3',
+          name: '我落泪情绪零碎',
+          artist: '周杰伦',
+          url: 'https://sd-sycdn.kuwo.cn/5f1ba98baf65c6b1cadff971b47bb713/643752f9/resource/n3/39/21/2362952402.mp3',
           cover: 'https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2a5843a4b216933063cb2bcd6236cfbe.jpeg?from=2956013662'
         }
         ,
         {
           name: '晴天',
           artist: '周杰伦',
-          url: 'http://m10.music.126.net/20230412210114/6c39d6da419c1a690b92f06c3c6a4714/ymusic/bae4/9917/159a/6edac5ac3f94945ae179ed1df4d14d35.mp3',
+          url: 'https://sy-sycdn.kuwo.cn/c2eb2e32894515aebeb01d49009f19eb/64375038/resource/n1/84/19/2974502628.mp3',
           cover: 'https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2a5843a4b216933063cb2bcd6236cfbe.jpeg?from=2956013662'
         },
         {
-          name: '天分',
+          name: '差三岁',
           artist: '赵孟澈',
-          url: 'https://other-web-nf01-sycdn.kuwo.cn/48a7fdf2a5fb8a5c2c8ae94ba6b2509d/6436a5a7/resource/n1/81/52/3468506659.mp3',
+          url: 'http://m701.music.126.net/20230413092217/571cfd7242248ee1047ea49e3c6d4ab1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/15015795705/9785/ad07/4867/b0da40ab74626b301bd763caa53f4292.mp3',
           cover: '//p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_3522e1a0c84542beafbe159362b09517.jpeg?from=2956013662'
         },
         {
-          name: '苦咖啡',
-          artist: '那奇沃夫、KKECHO',
-          url: 'http://m10.music.126.net/20230412210114/6c39d6da419c1a690b92f06c3c6a4714/ymusic/bae4/9917/159a/6edac5ac3f94945ae179ed1df4d14d35.mp3',
+          name: '绿色',
+          artist: '陈雪颖',
+          url: 'http://m801.music.126.net/20230413092305/5379af9dd88ee423ec31f41b14078bf4/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096647718/58a3/a31a/bea9/e006913469c4bfc249e971b7c16546d8.mp3',
           cover: '//p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4d73db6fefbd8041ff1b01e484721ad4.jpeg?from=2956013662'
         }
       ]
