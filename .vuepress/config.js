@@ -38,7 +38,6 @@ const fileList3 = list3.map(item=>'/docs/foo/Vue/'+item.name)
 module.exports = {
   "title": "PG-伴我同行",
   "description": "this is my blog",
-  "dest": "public",
   "base": "/learn-typescript/",
   "locales": {
     '/': {
@@ -50,7 +49,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "blac-cat.jpeg"
+        "href": "130121603.jpg"
       }
     ],
     [
@@ -66,7 +65,7 @@ module.exports = {
   "themeConfig": {
     "mode": 'dark',
     "noFoundPageByTencent": true,
-    "logo": 'blac-cat.jpeg',
+    "logo": '130121603.jpg',
     vssueConfig: {
       platform: 'github',
       owner: 'OWNER_OF_REPO',
@@ -227,20 +226,26 @@ module.exports = {
         {
           name: '我想要你的爱',
           artist: '潘安仁',
-          url: '/潘安仁 - 我想要你的爱 (降调版).mp3',
+          url: 'https://lu-sycdn.kuwo.cn/f1ef6e03ddffc954dfa496739f0e0c7c/6436a57b/resource/n1/8/96/1372623612.mp3',
           cover: 'https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2a5843a4b216933063cb2bcd6236cfbe.jpeg?from=2956013662'
         }
         ,
         {
+          name: '晴天',
+          artist: '周杰伦',
+          url: 'http://m10.music.126.net/20230412210114/6c39d6da419c1a690b92f06c3c6a4714/ymusic/bae4/9917/159a/6edac5ac3f94945ae179ed1df4d14d35.mp3',
+          cover: 'https://p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_2a5843a4b216933063cb2bcd6236cfbe.jpeg?from=2956013662'
+        },
+        {
           name: '天分',
           artist: '赵孟澈',
-          url: '/赵梦澈 - 天分.mp3',
+          url: 'https://other-web-nf01-sycdn.kuwo.cn/48a7fdf2a5fb8a5c2c8ae94ba6b2509d/6436a5a7/resource/n1/81/52/3468506659.mp3',
           cover: '//p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813_3522e1a0c84542beafbe159362b09517.jpeg?from=2956013662'
         },
         {
           name: '苦咖啡',
           artist: '那奇沃夫、KKECHO',
-          url: '/那奇沃夫、KKECHO - 苦咖啡·唯一.mp3',
+          url: 'http://m10.music.126.net/20230412210114/6c39d6da419c1a690b92f06c3c6a4714/ymusic/bae4/9917/159a/6edac5ac3f94945ae179ed1df4d14d35.mp3',
           cover: '//p3-pc.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_4d73db6fefbd8041ff1b01e484721ad4.jpeg?from=2956013662'
         }
       ]
